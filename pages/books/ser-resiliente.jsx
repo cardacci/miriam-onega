@@ -6,7 +6,7 @@ export default function SerResiliente() {
 			<Image
 				alt='Ser Resiliente'
 				height={160}
-				src='/books/ser-resiliente/ser-resiliente.png'
+				src='/books/ser-resiliente/titulo.png'
 				width={497}
 			/>
 

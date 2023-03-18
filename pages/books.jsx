@@ -1,14 +1,18 @@
+import Link from 'next/link';
 import Card from '@mui/material/Card';
+import { CardActionArea } from '@mui/material';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
-import { CardActionArea } from '@mui/material';
-import Link from 'next/link';
 
 const bookList = [{
-	description: 'Mi libro',
-	image: 'ser-resiliente/ser-resiliente.png',
+	description: 'Ser Resiliente',
+	image: 'ser-resiliente/titulo.png',
 	pageName: 'ser-resiliente'
+}, {
+	description: 'Palabras Urgentes',
+	image: 'palabras-urgentes/titulo.jpg',
+	pageName: 'palabras-urgentes'
 }]
 
 export default function Books() {
