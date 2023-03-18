@@ -23,7 +23,7 @@ export default function Home() {
 
 			<main>
 				<div style={{
-					margin: '25px 0'
+					marginTop: '25px'
 				}}>
 					<Image
 						alt='Miriam Onega Logo'

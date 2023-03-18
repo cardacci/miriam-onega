@@ -1,23 +1,23 @@
 import Image from 'next/image';
+import Link from 'next/link';
 
 export default function SerResiliente() {
 	return (
 		<div className='page'>
-			<Image
-				alt='Ser Resiliente'
-				height={160}
-				src='/books/ser-resiliente/titulo.png'
-				width={497}
-			/>
+			<Link href='/books'>
+				<Image
+					alt='Ser Resiliente'
+					height={160}
+					src='/books/ser-resiliente/titulo.png'
+					width={497}
+				/>
+			</Link>
 
 			<div className='page-subtitle'>
 				La autora a través de su novela autobiográfica con sus metáforas, desea llevar un mensaje positivo a la sociedad; a pesar de todos los obstáculos y dolores que conlleva vivir, se pueden superar los mismos, ser una mejor persona, irradiando luz infinita para consigo y los dempas, SER un SER RESILIENTE.
 			</div>
 
-			<div
-				className='text-quote'
-				style={{ marginTop: '20px' }}
-			>
+			<div className='text-quote'>
 				<p>
 					&quot;Somos todos libres de hacer lo que queramos, siempre que no perjudiquemos a los demás... recuerda de dónde has venido, adónde vas...&quot;
 				</p>
@@ -31,7 +31,11 @@ export default function SerResiliente() {
 				</span>
 			</div>
 
-			<div style={{ marginTop: '40px' }}>
+			<div style={{
+				borderRadius: '20px',
+				marginTop: '40px',
+				overflow: 'auto'
+			}}>
 				<Image
 					alt='Ser Resiliente'
 					height={426.67}
@@ -40,7 +44,11 @@ export default function SerResiliente() {
 				/>
 			</div>
 
-			<div style={{ marginTop: '40px' }}>
+			<div style={{
+				borderRadius: '20px',
+				marginTop: '40px',
+				overflow: 'auto'
+			}}>
 				<Image
 					alt='Ser Resiliente'
 					height={426.67}
