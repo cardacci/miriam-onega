@@ -58,6 +58,14 @@ a {
 	padding: 25px 0;
 }
 
+.page .text-quote {
+	text-align: center;
+}
+
+.page .text-quote > p {
+	font-style: italic;
+}
+
 .video-container-component {
 	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 	height: 0;
