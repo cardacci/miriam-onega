@@ -14,7 +14,7 @@ export default function SerResiliente() {
 			</Link>
 
 			<div className='page-subtitle'>
-				La autora a través de su novela autobiográfica con sus metáforas, desea llevar un mensaje positivo a la sociedad; a pesar de todos los obstáculos y dolores que conlleva vivir, se pueden superar los mismos, ser una mejor persona, irradiando luz infinita para consigo y los dempas, SER un SER RESILIENTE.
+				La autora a través de su novela autobiográfica con sus metáforas, desea llevar un mensaje positivo a la sociedad; a pesar de todos los obstáculos y dolores que conlleva vivir, se pueden superar los mismos, ser una mejor persona, irradiando luz infinita para consigo y los demás, SER un SER RESILIENTE.
 			</div>
 
 			<div className='text-quote'>

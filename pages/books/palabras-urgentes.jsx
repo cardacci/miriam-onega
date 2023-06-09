@@ -52,7 +52,7 @@ export default function PalabrasUrgentes() {
 				</p>
 
 				<p>
-					Estas allí...,
+					Estás allí...,
 				</p>
 
 				<p>
@@ -76,7 +76,7 @@ export default function PalabrasUrgentes() {
 				</p>
 
 				<p>
-					en las estrellas el brillas.
+					en las estrellas al brillar.
 				</p>
 
 				<p>
@@ -128,7 +128,7 @@ export default function PalabrasUrgentes() {
 				</p>
 
 				<p>
-					y a pesar de la noches,
+					y a pesar de la noche,
 				</p>
 
 				<p>
